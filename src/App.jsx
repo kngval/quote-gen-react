@@ -3,8 +3,8 @@ import './App.css'
 import quotes from './quotes'
 function App() {
   const [quote,setQuote] = useState({
-    text:'',
-    author: ''
+    text:"The problem is that at a lot of big companies, process becomes a substitute for thinking. You're encouraged to behave like a little gear in a complex machine. Frankly, it allows you to keep people who aren't that smart, who aren't that creative. ",
+    author: 'Elon Musk, Founder of PayPal and Tesla'
   });
   
   const generateRandomQuote =() =>{

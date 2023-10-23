@@ -20,6 +20,7 @@ const quotes = [
         text:"We want to build technology that everybody loves using, and that affects everyone. We want to create beautiful, intuitive services and technologies that are so incredibly useful that people use them twice a day. Like they use a toothbrush. There aren't that many things people use twice a day",
         author: "Larry Page, co-founder Google"
     }
+    
 
 ]
 
